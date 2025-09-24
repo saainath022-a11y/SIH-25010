@@ -41,21 +41,6 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-The government can identify and collaborate with successful farmers in each region to systematically collect their detailed practices on crop selection, fertilizers, pest management, irrigation methods, planting schedules, and cost-saving techniques. These best practices, proven in real-world conditions, will serve as a reliable knowledge base for other farmers.
-
-This knowledge will then be digitized and integrated into a mobile application designed to be farmer-friendly and widely accessible. The app will:
-
-Provide region-specific, practical guidance that reflects not only scientific inputs but also methods already validated by successful farmers in similar conditions.
-
-Be available in multiple Indian languages, ensuring that farmers across diverse linguistic regions can benefit without facing language barriers.
-
-Include step-by-step instructions, crop calendars, and fertilizer recommendations to help farmers follow clear, actionable steps rather than generic guidelines.
-
-Feature AI-powered voice support, allowing even low-literacy farmers to access the same high-quality advisory services through simple voice interaction.
-
-By combining farmer wisdom with digital technology, the app bridges the gap between traditional knowledge and modern advisory systems. This ensures that farmers receive trusted, localized, and easy-to-follow advice—knowledge that has already been successfully applied in their communities—thus improving adoption and long-term impact.
-
-Proposed Solution
 
 The government can identify and collaborate with successful farmers in each region to systematically collect their detailed practices on crop selection, fertilizers, pest management, irrigation methods, planting schedules, and cost-saving techniques. These best practices, proven in real-world conditions, will serve as a reliable knowledge base for other farmers.
 This knowledge will then be digitized and integrated into a mobile application designed to be farmer-friendly and widely accessible. The app will:
@@ -65,9 +50,11 @@ Include step-by-step instructions, crop calendars, and fertilizer recommendation
 Feature AI-powered voice support, which will act as a virtual farming assistant. This will allow farmers with low literacy levels to ask questions verbally and receive spoken guidance in their native language. The AI voice will explain farming practices, weather alerts, and fertilizer schedules in simple terms, ensuring inclusivity for farmers who may not be comfortable reading text on a smartphone.
 By combining farmer wisdom with digital technology, the app bridges the gap between traditional knowledge and modern advisory systems. This ensures that farmers receive trusted, localized, and easy-to-follow advice—knowledge that has already been successfully applied in their communities—thus improving adoption and long-term impact.
 ## Technical Approach
+<img width="1024" height="1536" alt="flowchart" src="https://github.com/user-attachments/assets/58c19c42-b587-4e8b-b7e7-88fdb25641c6" />
+
 The solution will be implemented in the following stages:
 Data Collection and Validation:
-  Government collaborates with successful farmers in each region to collect detailed practices: crop selection, fertilizer usage, pest control, irrigation, planting schedules, and cost-saving techniques.
+  Government collaborates with successful farmers in each region to collect detailed practices: crop selection, fertilizer usage, pest control,irrigation,planting  schedules, and cost-saving techniques.      
   Experts and agricultural officers validate the collected data to ensure reliability and scientific accuracy.
   Digitization and Knowledge Base Creation:
   The validated practices are digitized and stored in a structured database.
